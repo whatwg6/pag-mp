@@ -1,0 +1,7 @@
+{
+  "projectname": "wechat-miniprogram",
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false
+  }
+}
